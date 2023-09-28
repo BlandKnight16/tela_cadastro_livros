@@ -1,0 +1,16 @@
+<>
+    <string name="app_name">Pup feeder</string>
+    <string name="activity_cadastro_agendamento_descricao">Descricao</string>
+    <string name="activity_cadastro_agendamento_horario">Horario</string>
+    <string name="activity_cadastro_agendamento_frequencia">Frequencia</string>
+    <string-array name="activity_cadastro_agendamento_frequência_lista">
+        <item>Diariamente</item>
+        <item>Fins de semana</item>
+        <item>Segunda a Sexta</item>
+    </string-array>
+    <string name="activity_cadastro_agendamento_dispositivo">Dispositivo</string>
+    <string-array name="activity_cadstro_agendamento_disposivo_lista">
+        <item>Nenhum</item>
+    </string-array>
+    <string name="activity_cadastro_agendamento_salvar">Salvar</string>
+    </resources>
